@@ -36,6 +36,4 @@ Build a movie rating recommendation system from scratch using collaborative filt
 ## [Twitter Sentiment Analysis!](Twitter%20Sentiment)
 I know, I know, I know. You've seen this project a million times, as a ML student, I just had to do it like everyone else :)
 
-
-<sup><br>Part of the code is modified from Prof. [Yannet Interian's](https://github.com/yanneta) USF Advanced ML class.<br></sup>
-<sup>Part of the code is modified from Prof. [Terence Parr's](https://github.com/parrt) USF data acquisition class.</sup>.
+# ref - https://github.com/beimingliu/AdvancedMachineLearning
